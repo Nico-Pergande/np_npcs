@@ -7,5 +7,6 @@ name ''
 description ''
 
 server_scripts {
-    'svmain.lua',
+    'config.lua',
+    'svmain.lua'
 }
